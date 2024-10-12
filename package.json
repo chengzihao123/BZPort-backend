@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase-admin": "^12.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
